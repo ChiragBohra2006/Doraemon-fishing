@@ -8,7 +8,7 @@ function preload(){
 }
 
 function setup() {
-  createCanvas(100,100 );
+  createCanvas(800,1000 );
   
   captainA = createSprite(200,200);
   captainA.addAnimation("captain",captain);
